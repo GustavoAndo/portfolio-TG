@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<img align="right" src="./img/perfil.jpg" alt="Foto pessoal" width="250"/>
+<img align="right" src="./img/perfil.jpg" alt="Foto pessoal" width="150"/>
 
 Meu nome é Gustavo Kenji Ando, tenho 19 anos e sou estudante do curso de Análise e Desenvolvimentos de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
 
