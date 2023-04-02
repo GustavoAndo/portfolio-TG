@@ -36,9 +36,9 @@ Para desenvolver este projeto, foram utilizadas as tecnologias:
     - **Photoshop:** ferramenta para edição das imagens utilizadas no projeto.
 
 ## Contribuições Pessoais
-Neste projeto, colaborei com a equipe, principalmente, na criação das tabelas do banco de dados com MySQL para a persistência de dados dos participantes, voluntários de apoio e específico e projetos. Além disso, participei de um pouco do desenvolvimento de front-end com HTML e CSS, com a criação e estilização da página de voluntários, de doações, e a área para alunos, e JavaScript para a funcionalidade de busca de projetos.
+Neste projeto, eu fui desenvolvedor e colaborei com a equipe, principalmente, na criação das tabelas do banco de dados com MySQL para a persistência de dados dos participantes, voluntários de apoio e específico e projetos. Além disso, participei de um pouco do desenvolvimento de front-end com HTML e CSS, com a criação e estilização da página de voluntários, de doações, e a área para alunos, e JavaScript para a funcionalidade de busca de projetos.
 
-### Hard Skills
+## Hard Skills
 * **HTML5** - sei fazer com autonomia;
 * **CSS3** - sei fazer com auxílio de consultas;
 * **JavaScript** - sei fazer com auxílio de consultas;
