@@ -8,11 +8,11 @@ Meu nome é Gustavo Kenji Ando, tenho 19 anos e sou estudante do curso de Análi
 
 Após me formar no Ensino Médio em 2020, tive meu primeiro contato com programação no primeiro semestre de 2021 na faculdade. E assim que comecei a estudar lógica de programção com Python, eu descobri que gosto muito de programar.
 
-Atualmente sou bolsista de iniciação científica no INPE e estou envolvido com desenvolvimento de rotinas em Python para gerenciamento da base de dados radiometricos de monitoramento de sistemas aquáticos por sensoriamento remoto.
+Atualmente, sou bolsista de iniciação científica no INPE e estou envolvido com desenvolvimento de rotinas em Python para gerenciamento da base de dados radiometricos de monitoramento de sistemas aquáticos por sensoriamento remoto.
 
 ## Meus Projetos
 
-Esse repositório tem o intuito de documentar todos os projetos de API (Aprendizagem por Projetos Integrados) que foram desenvolvidas durante minha graduação no curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Participei no desenvolvimento de seis projetos no total, sendo cada um deles entregues por semestre desde o começo da graduação.
+Esse repositório tem o intuito de documentar todos os projetos de API (Aprendizagem por Projetos Integrados) que foram desenvolvidas durante minha graduação no curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Colaborei com o desenvolvimento de seis projetos no total, sendo cada um deles entregues por semestre desde o começo da graduação.
 
 Segue abaixo uma tabela dos projetos e seus links que levará a um README com mais detalhes de cada projeto:
 
@@ -26,11 +26,12 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
 | [6º Semestre](./6-semestre/README.md) | |
 
 ## Meus Principais Conhecimentos
-Durante a realização dos projetos de API e minha formação profissional, eu desenvolvi conhecimentos em diversas tecnologias para solucionar os problemas que foram apresentados.
 
-* **Back-End:** Para tecnologias em back-end foram principalmente nas linguagens de programação Python, Java, PHP, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Spring e Express, além de um pouco de contato com C.
+Durante a realização dos projetos de API, eu desenvolvi conhecimentos em diversas tecnologias para solucionar os problemas que foram apresentados.
 
-* **Front-End:** Os principais conhecimentos em front-end foram na linguagem HTML, CSS, JavaScript e TypeScript, e de frameworks, bibliotecas foram em Bootstrap, React e React Native.
+* **Back-End:** Para tecnologias em back-end foram principalmente nas linguagens de programação Python, PHP, Java, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Spring e Express, além de um pouco de contato com C.
+
+* **Front-End:** Os principais conhecimentos em front-end foram na linguagem HTML, CSS, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Bootstrap, React e React Native.
 
 * **Banco de Dados:** Para persistência de dados, os principais conhecimentos foram em MySQL, além de um pouco de contato com PostgresSQL, Oracle e MongoDB.
 
