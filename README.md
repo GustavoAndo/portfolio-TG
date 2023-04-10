@@ -35,6 +35,28 @@ Durante a realização dos projetos de API, eu desenvolvi conhecimentos em diver
 
 * **Banco de Dados:** Para persistência de dados, os principais conhecimentos foram em MySQL, além de um pouco de contato com PostgresSQL, Oracle e MongoDB.
 
+Abaixo está uma tabela com os níveis de conhecimentos de cada tecnologia citada de forma mais estruturada: 
+
+| Tecnologia | Conhecimento básico | Sei fazer com ajuda | Sei fazer com autonomia |
+| :---:| :---: | :---: | :---: |
+| Python | | | X |
+| PHP | | X | |
+| C | X | | |
+| Java | | X |  |
+| JavaScript | | | X |
+| TypeScript | | X | |
+| HTML | | | X |
+| CSS | | X | |
+| MySQL | | | X |
+| PostgreSQL | X | | |
+| Oracle | X | | |
+| MongoDB | | X | |
+| Spring | | X | |
+| Express | | | X |
+| React | | | X |
+| React Native | | X | |
+| Bootstrap | | X | |
+
 ## Contatos
 * [GitHub](https://www.github.com/GustavoAndo)
 * [LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/)
