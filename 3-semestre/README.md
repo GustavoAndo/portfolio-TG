@@ -8,11 +8,11 @@ A proposta que foi proposto pela empresa foi de criar um sistema para coletar e 
 
 Desse modo, de acordo com o que foi solicitado, criamos um website para solucionar este problema. Como pode ser visto no GIF abaixo, as funcionalidades implementadas foram:
 
-* **Auteticação:** Ao entrar no sistema, como é privado, a primeira tela será para a autenticação do usuário;
+* **Autenticação:** Ao entrar no sistema, a primeira tela será para a autenticação do usuário;
 * **Dashboards:** A primeira página, quando o usuário é autenticado, é a de dashboards. Primeiramente, nela contém uma lista de unidades que podem ser clicadas para exibir dados relevantes e gráficos relacionados aos gastos das contas do contrato com a concessionária, disparando uma mensagem de aviso para caso o consumo seja maior que a do mês anterior. Além disso, é possível gerar um relatório em pdf com estes dados;
 * **Tabelas:** Nesta página é possível visualizar e excluir os dados dos cadastros: Contas, Concessionárias, Unidades e Contratos. Além disso, ao clicar em um cadastro específico, é possível ver mais detalhes e editá-lo;
 * **Cadastros:** Na barra de navegação, ao colocar o mouse em cima do botão de cadastros é aberto uma janela com as seguintes opções de formulários: 
-    * **Contas:** para cadastrar as contas (com upload incluso do pdf do arquivo da conta);
+    * **Conta:** para cadastrar as contas (com upload incluso do pdf do arquivo da conta);
     * **Concessionária:** para cadastras as concessionárias (com opções se ela é de água, energia ou gás);
     * **Unidade:** para cadastrar unidades (com um auxílio de uma API para a automatização de preenchimento de dados  apenas com o CEP);
     * **Contrato:** para cadastras os contratos (com dois selects para selecionar apenas concessionárias e unidades cadastradas).
