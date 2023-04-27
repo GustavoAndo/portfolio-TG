@@ -6,7 +6,7 @@ Neste segundo projeto, foi o primeiro projeto com uma empresa parceira, que foi 
 
 O objetivo do projeto foi de criar um CRUD para essa empresa de software para emissão de relatórios mensais de controle de presença de colaboradores com alocação específica em postos de trabalhos acordados em um contrato com o seu cliente.
 
-Assim como está sendo mostrado no GIF abaixo, a partir do problema, foi criando um aplicativo web para solucioná-lo. E nele foi implementado as seguintes funcionalidades:
+Assim como está sendo mostrado no GIF abaixo, a partir do problema, foi criado um aplicativo web para solucioná-lo. E nele foi implementado as seguintes funcionalidades:
 
 * **Marcação de presença:** Com o colaborador autenticado pelo sistema, na tela inicial, é possível marcar a presença no dia letivo de trabalho;
 * **Autenticação e nivelamento de acesso:** Ao entrar no site, será necessário o login e senha do usuário para acessar as funcionalidades do sistema. Além disso, dependendo do nível de acesso, será permitido apenas acessar algumas páginas da aplicação. Desse modo, os níveis de acesso e suas permissões são:
@@ -51,5 +51,5 @@ No segundo semestre, também tive o papel de desenvolvedor. Colaborei com minha 
 ## Soft Skills
 
 * **Proatividade:** para criar funcionalidades díficeis, como de quadro de presença e relatórios, fui bem proativo para pesquisar as tecnologias e pensar na lógica de como as atividades seriam concluídas;
-* **Colaboração:** colaborei bastante com a equipe para realização das minhas atividades, além de auxiliar nas dificuldades dos outros integrantes da minha equipe;
+* **Entregas de Resultados:** consegui me desenvolver para entregar todas as atividades de forma que fosse satisfatório para equipe e que atendessem aos requisitos do cliente;
 * **Planejamento:** ainda em ensino remoto, o planejamento foi de extrema importante para concluir as tarefas.
