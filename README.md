@@ -40,7 +40,7 @@ Abaixo está uma tabela com os níveis de conhecimentos de cada tecnologia citad
 | Tecnologia | Conhecimento básico | Sei fazer com ajuda | Sei fazer com autonomia |
 | :---:| :---: | :---: | :---: |
 | Python | | | X |
-| PHP | | X | |
+| PHP | |  | X |
 | C | X | | |
 | Java | | X |  |
 | JavaScript | | | X |
