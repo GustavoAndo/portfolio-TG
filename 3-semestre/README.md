@@ -37,14 +37,14 @@ Desse modo, de acordo com o que foi solicitado, foi criado um website para soluc
     - **Bootstrap:** framework web para desenvolvimento de interfaces gráficas.
 * **Back-end:** 
     - **Java:** linguagem de programação para contrução do Back-end;
-    - **Spring:** framework para em Java para controle de dependência, com JPA (persistência de dados), Thymeleaf (integração com o front) e Spring Security (autenticação);
+    - **Spring:** framework em Java para controle de dependência, com JPA (persistência de dados), Thymeleaf (integração com o front) e Spring Security (autenticação);
     - **MySQL:** linguagem de programação para banco de dados para pesistência de dados do cadastros.
 * **Outros:** 
     - **Figma:** ferramenta para criação do protótipo do projeto;
 
 ## Contribuições Pessoais
 
-Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foco principalmente no Back-End da aplicação, que nesse semestre foi na linguagem de programação Java com o framework Spring e o banco de dados MySQL. Ao ajudar com a criação do diagrama de entidade e relacionamento (DER), contribui na criação dos modelos com ORM (Mapeamento objeto-relacional) com JPA. Fiz a implemetação de um CRUD no Back-End com Spring para as unidades (com consumo de dados de api para preenchimento de dados automáticos com o CEP utilizando ViaCEP) e os contratos, além de também fazer a integração dos cadastros, tabela, edição e exclusão com o Front-End utilizando Thymeleaf. Além disso, criei a parte de autenticação e nivelmaento de acesso do usuário com Spring Security. Por último, manipulei os dados das contas para serem exibidas em formato de dashboard com os principais dados e gráficos, além de notificar para caso o consumidor esteja com alerta de maior gasto econômico e ambiental, e fiz a geração de relatórios em pdf com a biblioteca OpenPdf em Java.
+Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foco principalmente no Back-End da aplicação, que nesse semestre foi na linguagem de programação Java com o framework Spring e o banco de dados MySQL. Ao ajudar com a criação do diagrama de entidade e relacionamento (DER), contribui na criação dos modelos com ORM (Mapeamento objeto-relacional) com JPA. Fiz a implemetação de um CRUD no Back-End com Spring para os contratos e as unidades (com consumo de dados de api para preenchimento de dados automáticos com o CEP utilizando ViaCEP), além de também fazer a integração dos cadastros, tabela, edição e exclusão com o Front-End utilizando Thymeleaf. Além disso, criei a parte de autenticação e nivelamento de acesso do usuário com Spring Security. Por último, manipulei os dados de gasto e consumo das contas para serem exibidas em formato de dashboard com os principais dados e gráficos, além de notificar para caso o consumidor esteja com alerta de maior gasto ou consumo em relação ao mês anterior, e fiz a geração de relatórios em pdf com a biblioteca OpenPdf em Java.
 
 ## Hard Skills
 
