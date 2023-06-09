@@ -58,6 +58,6 @@ Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foc
 
 ## Soft Skills
 
-* **Trabalho em Equipe:** com um número menor de integrantes na equipe, a colaborações de todos juntos foi essencial para ter sucesso na entrega das sprints; 
+* **Trabalho em Equipe:** com um número menor de integrantes na equipe, a colaboração de todos juntos foi essencial para ter sucesso na entrega das sprints; 
 * **Autonomia:** com o meu primeiro contato com Java, foi muito importante ter autonomia para aprendê-lo junto com o framework Spring;
 * **Entrega de Resultados:** como já citado anteriormente, com o grupo menor, a entrega de resultados de todos era de grande importância para atender satisfatoriamente o cliente.
