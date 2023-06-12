@@ -6,7 +6,7 @@
 
 Meu nome é Gustavo Kenji Ando, tenho 19 anos e sou estudante do curso de Análise e Desenvolvimentos de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
 
-Após me formar no Ensino Médio em 2020, tive meu primeiro contato com programação no primeiro semestre de 2021 na faculdade. E assim que comecei a estudar lógica de programção com Python, eu descobri que gosto muito de programar.
+Após me formar no Ensino Médio em 2020, tive meu primeiro contato com programação no primeiro semestre de 2021 na faculdade. E assim que comecei a estudar lógica de programação com Python, eu descobri que gosto muito de programar.
 
 Atualmente, sou bolsista de iniciação científica no INPE e estou envolvido com desenvolvimento de rotinas em Python para gerenciamento da base de dados radiometricos de monitoramento de sistemas aquáticos por sensoriamento remoto.
 
