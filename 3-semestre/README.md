@@ -38,9 +38,9 @@ Desse modo, de acordo com o que foi solicitado, foi criado um website para soluc
 * **Back-end:** 
     - **Java:** linguagem de programação para contrução do Back-end;
     - **Spring:** framework em Java para controle de dependência, com JPA (persistência de dados), Thymeleaf (integração com o front) e Spring Security (autenticação);
-    - **MySQL:** linguagem de programação para banco de dados para pesistência de dados do cadastros.
+    - **MySQL:** linguagem de programação para banco de dados para pesistência de dados.
 * **Outros:** 
-    - **Figma:** ferramenta para criação do protótipo do projeto;
+    - **Figma:** ferramenta para criação do protótipo do projeto.
 
 ## Contribuições Pessoais
 
@@ -54,7 +54,7 @@ Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foc
 * **Bootstrap** - sei fazer com auxílio de consultas;
 * **Java** - sei fazer com auxílio de consultas;
 * **Spring** - sei fazer com auxílio de consultas;
-* **MySQL:** - sei fazer com autonomia;
+* **MySQL:** - sei fazer com autonomia.
 
 ## Soft Skills
 

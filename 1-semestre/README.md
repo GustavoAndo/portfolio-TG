@@ -44,7 +44,7 @@ Neste projeto, eu trabalhei com o papel de desenvolvedor da equipe. Eu tive meu 
 * **CSS3** - sei fazer com auxílio de consultas;
 * **JavaScript** - sei fazer com auxílio de consultas;
 * **PHP** - sei fazer com auxílio de consultas;
-* **MySQL:** - sei fazer com autonomia;
+* **MySQL:** - sei fazer com autonomia.
 
 ## Soft Skills
 

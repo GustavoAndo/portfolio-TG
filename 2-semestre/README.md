@@ -46,7 +46,7 @@ No segundo semestre, também tive o papel de desenvolvedor. Colaborei com minha 
 * **CSS3** - sei fazer com auxílio de consultas;
 * **JavaScript** - sei fazer com auxílio de consultas;
 * **PHP** - sei fazer com autonomia;
-* **MySQL:** - sei fazer com autonomia;
+* **MySQL:** - sei fazer com autonomia.
 
 ## Soft Skills
 
