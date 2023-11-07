@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Para o último projeto no sexto semestre, a empresa colaborativa foi a Pro4Tech, uma empresa que trabalha com soluções inovadoras que impulsionam o crescimento, otimizam processos e maximizam o potencial do negócio de seus clientes. Eles possuem serviços na área de desenvolvimento web, aplicativos, inteligência artificial (IA), inteligência empresarial (BI), automação de processos robóticos (RPA) e inteligência das coisas (IoT), utilizando métodos ágeis.
+Para o último projeto no sexto semestre, a empresa colaborativa foi a [Pro4Tech](https://www.pro4tech.com.br/), uma empresa que trabalha com soluções inovadoras que impulsionam o crescimento, otimizam processos e maximizam o potencial do negócio de seus clientes. Eles possuem serviços na área de desenvolvimento web, aplicativos, inteligência artificial (IA), inteligência empresarial (BI), automação de processos robóticos (RPA) e inteligência das coisas (IoT), utilizando métodos ágeis.
 
 O projeto proposto pelo cliente foi de desenvolver uma aplicação para empresa com intuito de otimizar o processo de recrutamento e seleção de candidatos através de cadastros de vagas com uma descrição que demonstre um CHA (conhecimentos, habilidades e atitudes) indicado para ela. A partir desta descrição, será realizado um Web Scrapping para que se obtenha um ranqueamento de candidatos com perfil mais aderente a vaga.
 
@@ -16,7 +16,7 @@ Assim, a partir da proposta e requisitos solicitados pela empresa, a solução i
 * **Cadastro da Vaga (CHA):** Nessa tela, o usuário pode cadastar uma vaga, colocando seu nome e nível, e a partir destes dois campos, uma IA gerará o CHA (conhecimentos, habilidades e atitudes) que podem ser posteriormente editados e aprimorados pela IA. Após isso, é possível salvar os dados da vaga novamente ou solicitar para fazer o match dos candidatos, que será realizado o web scrapping e selecionados os melhores perfis para vaga;
 * **Perfil:** Também é possível a empresa visualizar suas informações cadastradas nesta página, além de editá-las e fazer a redefinição de senha;
 * **Redefinição de senha:** Além de fazer a redefinição através da página de perfil citada anteriormente, é possível redefinir na tela de login, caso a pessoa tenha esquecido a sua senha;
-* **Notificações:** Quando a empresa gera uma descrição CHA ou realiza um match, a empresa é notificada por e-mail. Além disso, é possível acessar uma página de notificações dentro do site;
+* **Notificações:** Quando a empresa gera uma descrição CHA ou realiza um match, a empresa é notificada por e-mail. Além disso, é possível acessar uma página de notificações dentro do site.
 
 ![Gif da execução do projeto](../img/6-semestre.gif)
 
@@ -59,8 +59,8 @@ Nesse último projeto, como Scrum Master, tive que aprender ainda mais sobre a m
 
 ### Empatia:
 
-Por ter o paepl de Scrum Master nesse semestre, tive que ter empatia com meus colegas de equipe para entendê-los em situações difíceis (dificuldades pessoais e técnicas) para que fosse possível encontrar uma solução em conjunto para esses problemas.
+Com o pessoal no último semestre, com portifólio, tarefas da faculdade a serem finalizadas, ocupação com trabalho, tive que ter empatia com meus colegas de equipe para entendê-los em situações difíceis para que fosse possível encontrar a melhor solução em conjunto para esses problemas.
 
 ### Liderança:
 
-Tive uma liderança como Scrum Mater, fui comprometido com a melhoria contínua da equipe e do processo. Liderei na adoção de práticas ágeis mais eficazes e em ajustes nas ações da equipe conforme necessário. Além disso, busquei trazer motivação e transparência a equipe, enfatizando nossos objetivos e a auxiliando na dificuldade de cada um.
+Por ter o papel de Scrum Master nesse semestre, fui comprometido com a melhoria contínua da equipe e do processo. Liderei na adoção de práticas ágeis mais eficazes e em ajustes nas ações da equipe conforme necessário.

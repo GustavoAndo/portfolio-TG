@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-O cliente do projeto no quarto semestre foi a 2RP, uma empresa que traz soluções e serviços personalizados para demandas na área de TI, atuando em qualquer segmento de mercado.
+O cliente do projeto no quarto semestre foi a [2RP](https://2rpnet.com.br/), uma empresa que traz soluções e serviços personalizados para demandas na área de TI, atuando em qualquer segmento de mercado.
 
 O objetivo do projeto deste semestre foi de desenvolver uma plataforma web para controlar a jornada de trabalho dos colaboradores da empresa em horas extras e sobreavisos.
 
@@ -57,6 +57,10 @@ No quarto projeto, sendo desenvolvedor, colaborei com minha equipe principalment
 
 ## Soft Skills
 
-* **Comunicação:** com uma equipe com 8 integrantes, uma boa comunicação para todos se interarem com o andamento do projeto foi essencial para a entrega das sprints;
-* **Proatividade:** para trabalhar com tecnologias novas (TypeScript, NodeJs e React), tanto no front-end e back-end, foi necessário proatividade para aprender as linguagens e realizar as tarefas com sucesso;
-* **Organização:** com maior número de pessoas no time, a organização das atividades foi imporante para entregar tudo o que foi proposto para as sprints.
+### Visão de Negócio
+
+Com um projeto com bastante número de funcionalidades, foi importante ter uma visão de negócio para entender melhor cada uma delas e entender os requisitos do cliente.
+
+### Colaboração
+
+Como citado anteriormente, o grande número de requisitos e com uma equipe até que grande (8 integrantes) necessitou da minha colaboração com a equipe no desenvolvimento das atividades e na comunicação de quais já foram feitas ou não.

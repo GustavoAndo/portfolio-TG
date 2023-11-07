@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-A empresa parceira deste projeto foi a IACIT, uma empresa que atua no desenvolvimento de produtos e sistemas aplicados às áreas de auxílio do controle e do tráfego aéreo e marítimo, defesa e segurança pública, fábrica de software, meteorologia, telemetria e agronegócio e pesquisa, desenvolvimento e inovação.
+A empresa parceira deste projeto foi a [IACIT](https://www.iacit.com.br/), uma empresa que atua no desenvolvimento de produtos e sistemas aplicados às áreas de auxílio do controle e do tráfego aéreo e marítimo, defesa e segurança pública, fábrica de software, meteorologia, telemetria e agronegócio e pesquisa, desenvolvimento e inovação.
 
 O cliente propôs para o quinto semestre o desenvolvimento de uma aplicação híbrida que funcione como Serviço de Atendimento ao Cliente (SAC), onde o usuário poderá cadastrar registros de ocorrências (RO's) e o suporte conseguirá verificar as solicitações criadas e solucionar os problemas do usuário, podendo também entrar em contato via chat.
 
@@ -64,6 +64,10 @@ Fui desenvolvedor novamente no quinto semestre. Inicialmente, contribui com a mi
 
 ## Soft Skills
 
-* **Colaboração:** colaborei o máximo possível com a minha equipe, principalmente no final das Sprints, corrigindo bugs e auxiliando nas atividades que precisavam;
-* **Trabalho em Equipe:** a ajuda de todos foi essencial para que as entregas fossem bem sucedidas;
-* **Comunicação:** com uma equipe com bastante integrantes, foi importante ter uma comunicação eficaz para todos estarem cientes de como estava andamento do projeto.
+### Gestão de Tempo
+
+Nesse semestre comecei a trabalhar, o que diminuiu meu tempo disponível para o projeto, fazendo ser essencial a gestão do meu tempo para que fosse possível eu realizar as atividades, buscando serem feitas durante o período de aula.
+
+### Comunicação Efetiva
+
+Com uma equipe com o máximo de integrantes (9), foi essencial termos uma comunicação efetiva dentro da equipe para que não nos perdessemos nas atividades restantes e para não fazermos a atividade duplicadamente.

@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-No terceiro semestre, o cliente foi a TecSus, uma empresa de automação empresarial.
+No terceiro semestre, o cliente foi a [TecSus](https://tecsus.com.br/), uma empresa que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Presente nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
 
 A proposta fornecida pela empresa foi de criar um sistema para coletar e processar contas de água, energia e gás com direcionamento a diversas empresas de setores de atacado e varejo, para assim ser possível realizar a digitação de todos os campos das contas de forma fácil, eficiente e agradável que serão salvos em um banco de dados para eventuais consultas e análises técnicas ou financeira, possibilitando trazer ao cliente oportunidades de redução de custos e alteração de contratos.
 
@@ -58,6 +58,10 @@ Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foc
 
 ## Soft Skills
 
-* **Trabalho em Equipe:** com um número menor de integrantes na equipe, a colaboração de todos juntos foi essencial para ter sucesso na entrega das sprints; 
-* **Autonomia:** com o meu primeiro contato com Java, foi muito importante ter autonomia para aprendê-lo junto com o framework Spring;
-* **Entrega de Resultados:** como já citado anteriormente, com o grupo menor, a entrega de resultados de todos era de grande importância para atender satisfatoriamente o cliente.
+### Trabalho em Equipe
+
+Com um grupo com menor número de integrantes na equipe (6) em comparação aos outros semestres, o trabalho de todos em conjunto foi essencial para conseguirmos entregar tudo que foi proposto para cada sprint. 
+
+### Organização e Planejamento
+
+Por conta de estar voltando às aulas presenciais, foi necessário ter uma organização melhor para a readaptação da minha rotina com relação à faculdade, o projeto e outras atividades pessoais.

@@ -48,6 +48,10 @@ Neste projeto, eu trabalhei com o papel de desenvolvedor da equipe. Eu tive meu 
 
 ## Soft Skills
 
-* **Planejamento:** para cumprir todas as atividades em ensino remoto, foi necessário um bom planejamento;
-* **Organização:** com diversas trocas que tivemos de *Scrum Master*, a organização foi essencial para que as entregas fossem bem sucedidas;
-* **Autonomia:** para aprender boa parte das tecnologias necessárias para a realização do projeto, precisei estudar com autonomia.
+### Autonomia
+
+Por ser o meu primeiro semestre na faculdade, foi essencial ter autonomia para estudar sozinho diversas novas tecnologias citadas anteriormente. Além disso, com o ensino remoto, foi de grande importância essa habilidade para realizar minhas atividades sem contato presencial com a equipe. 
+
+### Flexibilidade
+
+Com a troca diversas de Scrum Master (totalizando 3 durante todo o projeto) por conta mudanças que ocorrem no primeiro semestre, foi essencial ter flexibilidade para se adaptar conforme cada pessoa no cargo pensava e trabalhava.

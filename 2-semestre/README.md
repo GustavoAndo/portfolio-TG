@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Neste segundo projeto, foi o primeiro com uma empresa parceira, a JetSoft, uma empresa de software que oferece serviços e produtos a outros clientes.
+Neste segundo projeto, foi o primeiro com uma empresa parceira, a [JetSoft](https://www.jetsoft.com.br/), uma empresa de software que oferece serviços e produtos a outros clientes.
 
 O objetivo do projeto foi de criar um CRUD (Create, Read, Update e Delete) para essa empresa de software com intuito de emitir relatórios mensais de controle de presença de colaboradores com alocação específica de diferentes postos de trabalhos acordados em um contrato com o seu respectivo cliente.
 
@@ -50,6 +50,10 @@ No segundo semestre, também tive o papel de desenvolvedor. Colaborei com minha 
 
 ## Soft Skills
 
-* **Proatividade:** para criar funcionalidades díficeis, como de quadro de presença e relatórios, fui bem proativo para pesquisar as tecnologias e pensar na lógica de como as atividades seriam concluídas;
-* **Entregas de Resultados:** consegui me desenvolver para entregar todas as atividades de forma que fosse satisfatório para equipe e que atendessem aos requisitos do cliente;
-* **Planejamento:** ainda em ensino remoto, o planejamento foi de extrema importante para concluir as tarefas.
+### Proatividade
+
+Com diversas funcionalidades novas e complexas solicitadas pelo cliente, como por exemplo a geração de relatórios com gráficos e pdf, tive bastante proatividade para selecioná-las para serem realizadas, assim, pesquisando e pensando na lógica de como seriam concluídas.
+
+### Entrega de Resultados
+
+Como citado anteriormente, junto com a proatividade de selecionar as atividades complexas, realizei bastante atividades com bons resultados e consegui entregá-las de forma eficiente e agilmente.
