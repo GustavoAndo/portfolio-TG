@@ -23,7 +23,7 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
 | [3º Semestre](./3-semestre/README.md) | Sistema para armazenar, consultar e processar contas de água, energia e gás |
 | [4º Semestre](./4-semestre/README.md) | Plataforma web para controle de jornada de trabalho de hora extras e sobreavisos |
 | [5º Semestre](./5-semestre/README.md) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
-| [6º Semestre](./6-semestre/README.md) | |
+| [6º Semestre](./6-semestre/README.md) | Aplicação para recrutamento de candidatos para vagas de empresas |
 
 ## Meus Principais Conhecimentos
 
@@ -31,18 +31,18 @@ Durante a realização dos projetos de API, eu desenvolvi conhecimentos em diver
 
 * **Back-End:** Para tecnologias em back-end foram principalmente nas linguagens de programação Python, PHP, Java, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Spring e Express, além de um pouco de contato com C.
 
-* **Front-End:** Os principais conhecimentos em front-end foram na linguagem HTML, CSS, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Bootstrap, React e React Native.
+* **Front-End:** Os principais conhecimentos em front-end foram na linguagem HTML, CSS, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Bootstrap, React, React Native e Vue.js.
 
 * **Banco de Dados:** Para persistência de dados, os principais conhecimentos foram em MySQL, além de um pouco de contato com PostgresSQL, Oracle e MongoDB.
 
 Abaixo está uma tabela com os níveis de conhecimentos de cada tecnologia citada de forma mais estruturada: 
 
-| Tecnologia | Conhecimento básico | Sei fazer com ajuda | Sei fazer com autonomia |
+| Tecnologia | Básico | Intermediário | Avançado |
 | :---:| :---: | :---: | :---: |
 | Python | | | X |
 | PHP | |  | X |
 | C | X | | |
-| Java | | X |  |
+| Java | | | X |
 | JavaScript | | | X |
 | TypeScript | | X | |
 | HTML | | | X |
@@ -51,11 +51,13 @@ Abaixo está uma tabela com os níveis de conhecimentos de cada tecnologia citad
 | PostgreSQL | X | | |
 | Oracle | X | | |
 | MongoDB | | X | |
-| Spring | | X | |
+| Spring | | | X |
 | Express | | | X |
+| Django | X | | |
 | React | | | X |
 | React Native | | X | |
 | Bootstrap | | X | |
+| Vue.js | | | X |
 
 ## Contatos
 * [GitHub](https://www.github.com/GustavoAndo)
