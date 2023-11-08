@@ -24,6 +24,7 @@ Assim como está sendo mostrado no GIF abaixo, a partir do problema, foi criado 
 ![Gif da execução do projeto](../img/2-semestre.gif)
 
 > [Acesse o repositório no GitHub clicando aqui](https://github.com/Inodevs/Inodevs)
+
 ## Tecnologias Utilizadas
 
 * **Front-end:** 
@@ -32,13 +33,13 @@ Assim como está sendo mostrado no GIF abaixo, a partir do problema, foi criado 
     - **JavaScript:** linguagem de programação para criar as interações do site.
 * **Back-end:** 
     - **PHP:** linguagem de programação que foi utilizado para fazer as operações de CRUD dos dados no banco;
-    - **MySQL:** linguagem de programação para banco de dados para pesistência de dados do cadastros.
+    - **MySQL:** linguagem de programação para banco de dados para pesistência de dados dos cadastros.
 * **Outros:** 
     - **Figma:** ferramenta para criação do protótipo do projeto;
 
 ## Contribuições Pessoais
 
-No segundo semestre, também tive o papel de desenvolvedor. Colaborei com minha equipe principalmente com a tecnologia PHP e MySQL, onde eu trabalhei com a criação de um CRUD (Create, Read, Update e Delete) para o quadro de presença e nos cadastros do controle de perfis. Ainda com PHP, fiz a mecânica de autenticação e auxiliei no nivelamento de acesso dos usuários. Além disso, ajudei a criar e estilizar as páginas de quadro de presença e de edições com HTML5 e CSS3. Em JavaScript, fiz a funcionalidade de busca do quadro de presenças e o relógio na página incial. Por fim, um dos maiores desafios, foi trabalhar com os relatórios, com a manipulação de dados (cálculos e lógica relaizada em PHP), geração de gráficos (com JavaScript e Google Charts) e para a geração dos PDF's destes relatórios (com DOMPDF em PHP).
+No segundo semestre, também tive o papel de desenvolvedor. Colaborei com minha equipe principalmente com a tecnologia PHP e MySQL, onde eu trabalhei com a criação de um CRUD (Create, Read, Update e Delete) para o quadro de presença e nos cadastros do controle de perfis. Ainda com PHP, fiz a mecânica de autenticação e auxiliei no nivelamento de acesso dos usuários. Além disso, ajudei a criar e estilizar as páginas de quadro de presença e de edições com HTML5 e CSS3. Em JavaScript, fiz a funcionalidade de busca do quadro de presenças e o relógio na página inicial. Por fim, um dos maiores desafios, foi trabalhar com os relatórios, com a manipulação de dados (cálculos e lógica relaizada em PHP), geração de gráficos (com JavaScript e Google Charts) e para a geração dos PDF's destes relatórios (com DOMPDF em PHP).
 
 ## Hard Skills
 

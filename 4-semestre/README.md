@@ -14,13 +14,13 @@ A partir disso, como está sendo apresentado no GIF abaixo, a solução que foi 
 * **Tabela de Apontamentos:** Nesta tela é possível visualizar os apontamentos de todos os colaboradores e, ao clicar no botão visualizar, é possível ter mais detalhes dos apontamentos e editá-los;
 * **Usuários, Projetos, Clientes e Centros de Resultados:** Nestas páginas, temos a listagem, cadastro e edição de usuários, projetos, centros de resultados e clientes;
 * **Manipulação de Verbas:** Similar com as páginas anteriores, nesta tela é possível visualizar, cadastrar e editar as verbas que serão utilizadas para o cálculo do valor de cada hora dos apontamentos;
-* **Dashboards Individuais e Dashboards Gerais:** Nessas páginas, podemos visualizar dados anuais e mensais sobre os apontamentos de horas extras e de sobreavisos realizados durante este período. Nos Dashboards Individuais é apresentado dados do usuário autenticado e nos Dashboards Gerais é dado as informações gerais dos apontamentos de toda a empresa. Além disso é possível gerar um pdf com um resumo desses dados;
+* **Dashboards Individuais e Dashboards Gerais:** Nessas páginas, podemos visualizar dados anuais e mensais sobre os apontamentos de horas extras e de sobreavisos realizados durante este período. Nos Dashboards Individuais é apresentado dados do usuário autenticado e nos Dashboards Gerais é dado as informações gerais dos apontamentos de toda a empresa. Além disso é possível gerar um PDF com um resumo desses dados;
 * **Histórico de Apontamentos:** Nesta tela, pode ser visualizado histórico de apontamentos do usuário que está utilizando o sistema;
 * **Integração do Login:** Para maior facilidade de acessar a aplicação, foi implementada uma integração com o login da Google como opção de autenticação;
 * **Nivelamento de Acesso:** Por fim, também implementamos três níveis de acesso de acordo com a pessoa autenticada, esses níveis são:
     * **Administrador:** Possui acesso completo da aplicação; 
     * **Gestor:** Possui o acesso completo da aplicação, com exceção da páginas de Usuários e Manipulação de Verbas;
-    * **Colaborador:** Só tem permissão de acessar a página Home, Cadastrar de Horas, Dashboards Individuais e Histórico de Apontamentos (ele pode editar o Apontamento, porém a aprovação ou reporvação só será feita pelo gestor ou administrador).
+    * **Colaborador:** Só tem permissão de acessar a página Home, Cadastrar Horas, Dashboards Individuais e Histórico de Apontamentos (ele pode editar o Apontamento, porém a aprovação ou reprovação só será feita pelo gestor ou administrador).
 
 ![Gif da execução do projeto](../img/4-semestre.gif)
 
@@ -34,7 +34,7 @@ A partir disso, como está sendo apresentado no GIF abaixo, a solução que foi 
     - **TypeScript:** linguagem de programação para a criação do site;
     - **React:** biblioteca para desenvolvimento de interfaces gráficas em páginas web.
 * **Back-end:** 
-    - **TypeScript:** linguagem de programação para contrução do Back-End;
+    - **TypeScript:** linguagem de programação para contrução do back-end;
     - **NodeJS:** para execução de JavaScript fora de um navegador web;
     - **TypeORM:** ORM em TypeScript para criação da persistência de dados;
     - **PostgreSQL:** linguagem de programação para banco de dados para pesistência de dados.
@@ -43,7 +43,7 @@ A partir disso, como está sendo apresentado no GIF abaixo, a solução que foi 
 
 ## Contribuições Pessoais
 
-No quarto projeto, sendo desenvolvedor, colaborei com minha equipe principalmente na parte do Back-End, utilizando NodeJS com TypeScript. Primeiramente, realizei a modelagem das entidades com TypeORM. Fiz a parte da persistência de dados e as operações de CRUD para os apontamentos de horas extras e de sobreavisos, além de também dar suporte para minha equipe na realização das mesmas funções para usuários, clientes, projetos e centro de resultados. Trabalhei um pouco no Front-End em React com TypeScript para realização da tela de aprovação de apontamentos e auxiliei na criação da página de Dashboards (com a biblioteca em React recharts) e geração de pdf's (com a biblioteca em JavaScript pdfJS). Além disso, implementei a autenticação no sistema, tanto no Back-End (com a biblioteca jsonwebtoken) como no Front-End (utilizando context do React) e também ajudei no nivelamento de acesso para os perfis diferentes no sistema. Por fim, o maior desafio foi a realização da integração do login com o Google OAuth 2.0, que foi uma grande novidade para mim.
+No quarto projeto, sendo desenvolvedor, colaborei com minha equipe principalmente na parte do back-end, utilizando NodeJS com TypeScript. Primeiramente, realizei a modelagem das entidades com TypeORM. Fiz a parte da persistência de dados e as operações de CRUD para os apontamentos de horas extras e de sobreavisos, além de também dar suporte para minha equipe na realização das mesmas funções para usuários, clientes, projetos e centro de resultados. Trabalhei um pouco no front-end em React com TypeScript para realização da tela de aprovação de apontamentos e auxiliei na criação da página de Dashboards com gráficos (com a biblioteca em React recharts) e geração de PDF's (com a biblioteca em JavaScript pdfJS). Além disso, implementei a autenticação no sistema, tanto no back-end (com a biblioteca jsonwebtoken) como no front-end (utilizando context do React) e também ajudei no nivelamento de acesso para os perfis diferentes no sistema. Por fim, o maior desafio foi a realização da integração do login com o Google OAuth 2.0, que foi uma grande novidade para mim.
 
 ## Hard Skills
 
@@ -63,4 +63,4 @@ Com um projeto com bastante número de funcionalidades, foi importante ter uma v
 
 ### Colaboração
 
-Como citado anteriormente, o grande número de requisitos e com uma equipe até que grande (8 integrantes) necessitou da minha colaboração com a equipe no desenvolvimento das atividades e na comunicação de quais já foram feitas ou não.
+Como citado anteriormente, o grande número de requisitos e com uma equipe até que grande (8 integrantes) necessitou da minha colaboração com a equipe no desenvolvimento das atividades e na comunicação de quais tarefas já tinham sido feitas ou não.

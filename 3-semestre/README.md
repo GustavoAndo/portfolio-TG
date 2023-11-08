@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-No terceiro semestre, o cliente foi a [TecSus](https://tecsus.com.br/), uma empresa que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Presente nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
+No terceiro semestre, o cliente foi a [TecSus](https://tecsus.com.br/), uma empresa que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Ela está presente nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
 
 A proposta fornecida pela empresa foi de criar um sistema para coletar e processar contas de água, energia e gás com direcionamento a diversas empresas de setores de atacado e varejo, para assim ser possível realizar a digitação de todos os campos das contas de forma fácil, eficiente e agradável que serão salvos em um banco de dados para eventuais consultas e análises técnicas ou financeira, possibilitando trazer ao cliente oportunidades de redução de custos e alteração de contratos.
 
@@ -44,7 +44,7 @@ Desse modo, de acordo com o que foi solicitado, foi criado um website para soluc
 
 ## Contribuições Pessoais
 
-Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foco principalmente no Back-End da aplicação, que nesse semestre foi na linguagem de programação Java com o framework Spring e o banco de dados MySQL. Ao ajudar com a criação do diagrama de entidade e relacionamento (DER), contribui na criação dos modelos com ORM (Mapeamento objeto-relacional) com JPA. Fiz a implemetação de um CRUD no Back-End com Spring para os contratos e as unidades (com consumo de dados de api para preenchimento de dados automáticos com o CEP utilizando ViaCEP), além de também fazer a integração dos cadastros, tabela, edição e exclusão com o Front-End utilizando Thymeleaf. Além disso, criei a parte de autenticação e nivelamento de acesso do usuário com Spring Security. Por último, manipulei os dados de gasto e consumo das contas para serem exibidas em formato de dashboard com os principais dados e gráficos, além de notificar para caso o consumidor esteja com alerta de maior gasto ou consumo em relação ao mês anterior, e fiz a geração de relatórios em pdf com a biblioteca OpenPdf em Java.
+Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foco principalmente no Back-End da aplicação, que nesse semestre foi na linguagem de programação Java com o framework Spring e o banco de dados MySQL. Ao ajudar com a criação do diagrama de entidade e relacionamento (DER), contribui na criação dos modelos com ORM (Mapeamento Objeto-Relacional) com JPA. Fiz a implemetação de um CRUD no Back-End com Spring para os contratos e as unidades (com consumo de dados de API para preenchimento de dados automáticos com o CEP utilizando ViaCEP), além de também fazer a integração dos cadastros, tabela, edição e exclusão com o Front-End utilizando Thymeleaf. Além disso, criei a parte de autenticação e nivelamento de acesso do usuário com Spring Security. Por último, manipulei os dados de gasto e consumo das contas para serem exibidas em formato de dashboard com os principais dados e gráficos, além de notificar para caso o consumidor esteja com alerta de maior gasto ou consumo em relação ao mês anterior, e fiz a geração de relatórios em PDF com a biblioteca OpenPDF em Java.
 
 ## Hard Skills
 
@@ -60,8 +60,8 @@ Neste terceiro projeto, como desenvolvedor, contribui com a minha equipe com foc
 
 ### Trabalho em Equipe
 
-Com um grupo com menor número de integrantes na equipe (6) em comparação aos outros semestres, o trabalho de todos em conjunto foi essencial para conseguirmos entregar tudo que foi proposto para cada sprint. 
+Com um grupo com menor número de integrantes na equipe (6) em comparação aos outros semestres, o trabalho de todos em conjunto foi essencial para conseguirmos entregar tudo que foi proposto para cada sprint.
 
 ### Organização e Planejamento
 
-Por conta de estar voltando às aulas presenciais, foi necessário ter uma organização melhor para a readaptação da minha rotina com relação à faculdade, o projeto e outras atividades pessoais.
+Por conta de estar voltando às aulas presenciais, foi necessário ter uma organização melhor para a readaptação da nova rotina com relação à faculdade, o projeto e outras atividades pessoais.

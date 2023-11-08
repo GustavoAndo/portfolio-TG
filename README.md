@@ -27,11 +27,11 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
 
 ## Meus Principais Conhecimentos
 
-Durante a realização dos projetos de API, eu desenvolvi conhecimentos em diversas tecnologias para solucionar os problemas que foram apresentados.
+Durante a realização dos projetos de API, eu desenvolvi conhecimentos em diversas tecnologias para solucionar os problemas que foram apresentados. Desse modo, os principais conhecimentos obtidos foram:
 
-* **Back-End:** Para tecnologias em back-end foram principalmente nas linguagens de programação Python, PHP, Java, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Spring e Express, além de um pouco de contato com C.
+* **Back-End:** Para tecnologias em back-end foram principalmente nas linguagens de programação Python, PHP, Java, JavaScript (Node) e TypeScript, e de frameworks e bibliotecas foram em Spring e Express, além de um pouco de contato com C.
 
-* **Front-End:** Os principais conhecimentos em front-end foram na linguagem HTML, CSS, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Bootstrap, React, React Native e Vue.js.
+* **Front-End:** Em front-end foram realizadas na linguagem HTML, CSS, JavaScript e TypeScript, e de frameworks e bibliotecas foram em Bootstrap, React, React Native e Vue.js.
 
 * **Banco de Dados:** Para persistência de dados, os principais conhecimentos foram em MySQL, além de um pouco de contato com PostgresSQL, Oracle e MongoDB.
 

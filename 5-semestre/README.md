@@ -9,7 +9,7 @@ O cliente propôs para o quinto semestre o desenvolvimento de uma aplicação h�
 Sendo assim, a solução que implementamos foi o desenvolvimento de uma aplicação mobile e web, que pode ser visto sua execução no primeiro e segundo GIF abaixo respectivamente. Portanto, as funções implementadas foram:
 
 * **Autenticação:** Para acessar a aplicação, primeiramente, é necessário se autenticar no sistema com e-mail e senha;
-* **Nivelamento de Acesso:** Existem dois níveis de acesso:
+* **Nivelamento de Acesso:** Existem dois níveis de acesso nesse sistema:
     * **Cliente:** Usuários que criam os RO's e aguardam serem resolvidas. Ele tem as seguintes permissões: acessar a página Home; criar, fechar e acompanhar os RO's; e entrar em contato com o suporte via chat;
     * **Administrador:** Encaminhado para resolver os RO's. Possui acesso completo da aplicação;
 * **Home:** Após se autenticar, o usuário possui várias opções de botões para acessar as funcionalidades do sistema (apenas na versão mobile, na versão web o usuário é redirecionado para página Registro de Ocorrência, já que temos um menu de navegação maior);
@@ -66,7 +66,7 @@ Fui desenvolvedor novamente no quinto semestre. Inicialmente, contribui com a mi
 
 ### Gestão de Tempo
 
-Nesse semestre comecei a trabalhar, o que diminuiu meu tempo disponível para o projeto, fazendo ser essencial a gestão do meu tempo para que fosse possível eu realizar as atividades, buscando serem feitas durante o período de aula.
+Nesse semestre comecei a trabalhar, o que diminuiu meu tempo disponível para o projeto, fazendo ser essencial a gestão do meu tempo para que fosse possível eu realizar as atividades propostas, buscando serem feitas durante o período de aula.
 
 ### Comunicação Efetiva
 
