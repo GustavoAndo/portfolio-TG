@@ -57,7 +57,9 @@ Abaixo está uma tabela com os níveis de conhecimentos de cada tecnologia citad
 | React | | | X |
 | React Native | | X | |
 | Bootstrap | | X | |
-| Vue.js | | | X |
+| Vue.js | | X | |
+| Figma | X | | |
+| Jira | X | | |
 
 ## Contatos
 * [GitHub](https://www.github.com/GustavoAndo)

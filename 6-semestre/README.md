@@ -49,7 +49,7 @@ Nesse último projeto, como Scrum Master, tive que aprender ainda mais sobre a m
 * **HTML5** - sei fazer com autonomia;
 * **CSS3** - sei fazer com auxílio de consultas;
 * **TypeScript** - sei fazer com auxílio de consultas;
-* **Vue.js** - sei fazer com autonomia;
+* **Vue.js** - sei fazer com auxílio de consultas;
 * **Java** - sei fazer com autonomia;
 * **Spring Boot** - sei fazer com autonomia;
 * **Python** - sei fazer com autonomia;
