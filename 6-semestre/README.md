@@ -18,6 +18,8 @@ Assim, a partir da proposta e requisitos solicitados pela empresa, a solução i
 * **Redefinição de senha:** Além de fazer a redefinição através da página de perfil citada anteriormente, é possível redefinir na tela de login, caso a pessoa tenha esquecido a sua senha;
 * **Notificações:** Quando a empresa gera uma descrição CHA ou realiza um match, a empresa é notificada por e-mail. Além disso, é possível acessar uma página de notificações dentro do site.
 
+Segue abaixo o GIF com a demonstração das funcionalidades descritas anteriormente:
+
 ![Gif da execução do projeto](../img/6-semestre.gif)
 
 > [Acesse o repositório no GitHub clicando aqui](https://github.com/Inodevs-6/Inodevs-doc)
@@ -63,4 +65,4 @@ Como último semestre, haviam outras atividades além do projeto, como portifól
 
 ### Liderança:
 
-Por ter o papel de Scrum Master nesse semestre, fui comprometido com a melhoria contínua da equipe e do processo. Liderei na adoção de práticas ágeis mais eficazes e em ajustes nas ações da equipe conforme necessário.
+Por ter o papel de Scrum Master nesse semestre, fui comprometido com a melhoria contínua da equipe e do processo, liderando. por exemplo, as reuniões de retrospectiva para percebemos o que começar, parar e continuar a fazer. Assim, através do desempenho do time, busquei utilizar práticas ágeis mais eficazes para trazer ajustes nas ações da equipe conforme necessário.
